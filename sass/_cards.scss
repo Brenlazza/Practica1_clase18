@@ -1,0 +1,31 @@
+.card {
+  grid-area: card;
+  background-color: $light;
+  margin: 1em auto;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px $dark;
+  width: 80%;
+
+  ul {
+    list-style-type: none;
+
+    li {
+      margin-bottom: 10px;
+
+      .circulo {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        background-color: $dark;
+        border-radius: 50%;
+        margin-right: 10px;
+      }
+
+      strong {
+        display: inline-block;
+        margin-left: 40px;
+      }
+    }
+  }
+}
