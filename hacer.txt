@@ -1,7 +1,7 @@
-
-1- agregue un boton con bootstrap, modificar el estilo del boton desde el sass/css personal 
-2- agregar un modal de bootstrap que se abra al hacer clic en el boton "saber más.."
-3- el modal tiene que tener el siguiente texto:
+1- verificar la media querie porque no esta funcionando
+2- agregue un boton con bootstrap, modificar el estilo del boton desde el sass/css personal 
+3- agregar un modal de bootstrap que se abra al hacer clic en el boton "saber más.."
+4- el modal tiene que tener el siguiente texto:
 
 (titulo)
 👑 Queen Studio – Arquitectura con carácter
