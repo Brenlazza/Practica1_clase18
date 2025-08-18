@@ -1,0 +1,12 @@
+
+1- agregue un boton con bootstrap, modificar el estilo del boton desde el sass/css personal 
+2- agregar un modal de bootstrap que se abra al hacer clic en el boton "saber más.."
+3- el modal tiene que tener el siguiente texto:
+
+(titulo)
+👑 Queen Studio – Arquitectura con carácter
+
+(cuerpo)
+En Queen Studio creemos que la arquitectura no solo construye espacios, sino también experiencias. Somos un estudio que combina diseño contemporáneo, sensibilidad estética y soluciones funcionales para crear obras que dialogan con su entorno y con quienes las habitan.
+
+Cada proyecto que abordamos es una oportunidad para contar una historia única. Desde viviendas que reflejan la personalidad de sus habitantes, hasta espacios comerciales que potencian marcas y experiencias, trabajamos con pasión, precisión y una mirada estratégica.
