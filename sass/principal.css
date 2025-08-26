@@ -82,4 +82,38 @@ main {
   text-decoration: none;
   text-transform: uppercase;
   text-align: center;
+}
+
+.btn-warning {
+  background-color: #f7c948;
+  color: #222;
+  padding: 4px 5px;
+  border-radius: 25px;
+}
+.btn-warning:hover {
+  background-color: #f7c948;
+  color: #222;
+}
+
+.modal-content {
+  background: #fffbe6;
+  border-radius: 20px;
+  border: 2px solid #f7c948;
+}
+.modal-content .modal-body {
+  font-size: 0.9em;
+}
+.modal-content .modal-header {
+  background: #f7c948;
+  color: #222;
+  border-bottom: none;
+  border-radius: 20px 20px 0 0;
+}
+.modal-content .modal-title {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+.modal-content .modal-footer {
+  background: transparent;
+  border-top: none;
 }/*# sourceMappingURL=principal.css.map */

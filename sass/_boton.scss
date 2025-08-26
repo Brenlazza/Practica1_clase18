@@ -1,0 +1,10 @@
+.btn-warning {
+    background-color: $yellow;
+    color: $oscuro;
+     padding: 4px 5px;  
+     border-radius: 25px ; 
+&:hover {
+    background-color: $yellow;
+     color: $oscuro;
+  }
+}

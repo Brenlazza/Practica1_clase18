@@ -1,0 +1,24 @@
+.modal-content {
+  background: $claro;
+  border-radius: 20px;
+  border: 2px solid $yellow;
+
+ .modal-body {
+  font-size: 0.9em;
+}
+ .modal-header {
+  background: $yellow;
+  color: #222;
+  border-bottom: none;
+  border-radius: 20px 20px 0 0;
+}
+
+ .modal-title {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+ .modal-footer {
+  background: transparent;
+  border-top: none;
+}
+}
