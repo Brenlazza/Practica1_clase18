@@ -1,0 +1,24 @@
+body.dark-mode {
+  background-color: $fondo !important;
+  color: $light !important;
+  background-image: none !important;
+}
+
+body.dark-mode .bg {
+  background-color: $fondo !important;
+
+}
+
+body.dark-mode .card,
+body.dark-mode .primary,
+body.dark-mode .modal-content {
+  background-color: $fondo !important;
+  color: $claro !important;
+}
+
+body.dark-mode .card {
+  background-color: lighten($fondo, 10%) !important;
+  color: $claro !important;
+  box-shadow: 0 4px 24px $yellow; 
+  border: 2px solid $yellow;      
+}

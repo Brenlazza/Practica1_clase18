@@ -116,4 +116,28 @@ main {
 .modal-content .modal-footer {
   background: transparent;
   border-top: none;
+}
+
+body.dark-mode {
+  background-color: #000 !important;
+  color: #f0f1f5 !important;
+  background-image: none !important;
+}
+
+body.dark-mode .bg {
+  background-color: #000 !important;
+}
+
+body.dark-mode .card,
+body.dark-mode .primary,
+body.dark-mode .modal-content {
+  background-color: #000 !important;
+  color: #fffbe6 !important;
+}
+
+body.dark-mode .card {
+  background-color: rgb(25.5, 25.5, 25.5) !important;
+  color: #fffbe6 !important;
+  box-shadow: 0 4px 24px #f7c948;
+  border: 2px solid #f7c948;
 }/*# sourceMappingURL=principal.css.map */
